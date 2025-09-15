@@ -8,10 +8,10 @@ Sometimes you don't need a full physics engine. Sometimes you just want to check
 
 ## Installation
 
-Just drop the `collision.lua` file into your project and require it:
+Just drop the `dumb.lua` file into your project and require it:
 
 ```lua
-local collision = require('collision')
+local collision = require('dumb')
 ```
 
 ## Usage
